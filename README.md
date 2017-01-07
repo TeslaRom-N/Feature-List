@@ -46,5 +46,6 @@
 - Proximity speaker
 - Installed Apps: show link to Google Playstore
 - Ability to enable/disable Settings Drawer
+- Statusbar Weather
 
 ...and more
