@@ -45,5 +45,6 @@
 - Flip to Mute/Reject Call
 - Proximity speaker
 - Installed Apps: show link to Google Playstore
+- Ability to enable/disable Settings Drawer
 
 ...and more
