@@ -9,7 +9,7 @@
 - Statusbar Clock and Date Customizations
 - Statusbar Battery Customizations
 - small QS Tiles
-- QS Tiles- TeslaCoil, IME, Volume Panel, Ring, Music, Reboot, Fling/Smartbar, Pie, Screen off, Expanded Desktop
+- QS Tiles- TeslaCoil, IME, Volume Panel, Ring, Music, Reboot, Fling/Smartbar, Pie, Screen off, Expanded Desktop, Lockscreen
 - QS Tiles Animation
 - QS Custom Rows/Columns
 - Network Traffic
