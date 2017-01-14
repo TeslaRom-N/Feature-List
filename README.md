@@ -47,5 +47,6 @@
 - Installed Apps: show link to Google Playstore
 - Ability to enable/disable Settings Drawer
 - Statusbar Weather
+- DUI Smartbar: double tap to sleep on navbar
 
 ...and more
