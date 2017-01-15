@@ -48,5 +48,6 @@
 - Ability to enable/disable Settings Drawer
 - Statusbar Weather
 - DUI Smartbar: double tap to sleep on navbar
+- Lockscreen charging info: real time values
 
 ...and more
