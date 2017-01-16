@@ -49,5 +49,7 @@
 - Statusbar Weather
 - DUI Smartbar: double tap to sleep on navbar
 - Lockscreen charging info: real time values
+- QS: Smart Ambient-LiftToWake tile
+- Navbar tile: one tap to enable/disable, long tap to choose nav type
 
 ...and more
