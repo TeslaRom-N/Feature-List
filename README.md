@@ -52,5 +52,6 @@
 - QS: Smart Ambient-LiftToWake tile
 - Navbar tile: one tap to enable/disable, long tap to choose nav type
 - Dialer: Show contacts with phone numbers only
+- App Circle Sidebar
 
 ...and more
