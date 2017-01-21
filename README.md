@@ -53,5 +53,6 @@
 - Navbar tile: one tap to enable/disable, long tap to choose nav type
 - Dialer: Show contacts with phone numbers only
 - App Circle Sidebar
+- QS Weather Tile (OmniJaws)
 
 ...and more
