@@ -54,5 +54,6 @@
 - Dialer: Show contacts with phone numbers only
 - App Circle Sidebar
 - QS Weather Tile (OmniJaws)
+- Statusbar: Battery Bar
 
 ...and more
