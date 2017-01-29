@@ -55,5 +55,13 @@
 - App Circle Sidebar
 - QS Weather Tile (OmniJaws)
 - Statusbar: Battery Bar
+- Gesture Anywhere
+- Second Clock
+- Statusbar Clock Font Style
+- Lockscreen Clock Widget Fonts and Color
+- QS Tile titles visibility
+- Power Notification
+- Dashboard Tile Layout
+- Less Notifications Sound
 
 ...and more
