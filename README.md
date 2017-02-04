@@ -63,5 +63,7 @@
 - Power Notification
 - Dashboard Tile Layout
 - Less Notifications Sound
+- QS Header
+- Statusbar Ticker
 
 ...and more
