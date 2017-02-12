@@ -9,7 +9,7 @@
 - Statusbar Clock and Date Customizations
 - Statusbar Battery Customizations
 - small QS Tiles
-- QS Tiles- TeslaCoil, IME, Volume Panel, Ring, Music, Reboot, Fling/Smartbar, Pie, Screen off, Expanded Desktop, Lockscreen
+- QS Tiles- TeslaCoil, IME, Volume Panel, Ring, Music, Reboot, Fling/Smartbar, Pie, Screen off, Expanded Desktop, Lockscreen, Screenrecord, Doze Notification, Screenshot
 - QS Tiles Animation
 - QS Custom Rows/Columns
 - Network Traffic
@@ -65,5 +65,10 @@
 - Less Notifications Sound
 - QS Header
 - Statusbar Ticker
+- Keyguard Statusbar Clock
+- Option to hide lockscreen clock, date & alarm text
+- Night Tile Brightness
+- Allow to quickly open Running Services from notification/qs panel
+- add Magisk Manager to Dashboard
 
 ...and more
