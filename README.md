@@ -70,5 +70,8 @@
 - Night Tile Brightness
 - Allow to quickly open Running Services from notification/qs panel
 - add Magisk Manager to Dashboard
+- Tile scroller for Quickbar Settings
+- Root with Magisk
+- Smartbar: Pixel Button Animatiom
 
 ...and more
