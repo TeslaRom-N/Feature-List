@@ -73,5 +73,7 @@
 - Tile scroller for Quickbar Settings
 - Root with Magisk
 - Smartbar: Pixel Button Animatiom
+- Blur
+- Slim Recents
 
 ...and more
