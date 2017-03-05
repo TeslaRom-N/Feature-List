@@ -9,7 +9,7 @@
 - Statusbar Clock and Date Customizations
 - Statusbar Battery Customizations
 - small QS Tiles
-- QS Tiles- TeslaCoil, IME, Volume Panel, Ring, Music, Reboot, Fling/Smartbar, Pie, Screen off, Expanded Desktop, Lockscreen, Screenrecord, Doze Notification, Screenshot
+- QS Tiles- TeslaCoil, IME, Volume Panel, Ring, Music, Reboot, Fling/Smartbar, Pie, Screen off, Expanded Desktop, Lockscreen, Screenrecord, Doze Notification, Screenshot, Caffeine, Weather
 - QS Tiles Animation
 - QS Custom Rows/Columns
 - Network Traffic
@@ -75,5 +75,7 @@
 - Smartbar: Pixel Button Animatiom
 - Blur
 - Slim Recents
+- IME Switcher Notification
+- Expanded Statusbar Weather
 
 ...and more
