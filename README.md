@@ -77,5 +77,6 @@
 - Slim Recents
 - IME Switcher Notification
 - Expanded Statusbar Weather
+- One Hand Mode
 
 ...and more
