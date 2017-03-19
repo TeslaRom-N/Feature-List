@@ -78,5 +78,8 @@
 - IME Switcher Notification
 - Expanded Statusbar Weather
 - One Hand Mode
+- Unify all "advanced" tiles (Bluetooth, Cellular, Wifi) into one easy toggle tile
+- Toast Icon switch
+- Slim Recents Iconpack Support
 
 ...and more
