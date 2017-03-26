@@ -81,5 +81,7 @@
 - Unify all "advanced" tiles (Bluetooth, Cellular, Wifi) into one easy toggle tile
 - Toast Icon switch
 - Slim Recents Iconpack Support
+- Volume Button Control
+- Add Kernel Adiutor to Dashboard
 
 ...and more
