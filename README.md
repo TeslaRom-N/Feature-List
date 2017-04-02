@@ -83,5 +83,6 @@
 - Slim Recents Iconpack Support
 - Volume Button Control
 - Add Kernel Adiutor to Dashboard
+- SmartBar: show arrows for next/previous track when playing audio
 
 ...and more
