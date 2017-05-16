@@ -85,5 +85,8 @@
 - Add Kernel Adiutor to Dashboard
 - SmartBar: show arrows for next/previous track when playing audio
 - PA solid circle battery style
+- Camera sound toggle
+- Charging sounds: Add option to use default charging sound
+- Charging sounds: Add option to notify on charger connect only
 
 ...and more
