@@ -88,5 +88,9 @@
 - Camera sound toggle
 - Charging sounds: Add option to use default charging sound
 - Charging sounds: Add option to notify on charger connect only
+- Navigation disabled notification
+- launch default music player on headset connect
+- AOSP Recents Grid Style
+- QS footer warnings
 
 ...and more
