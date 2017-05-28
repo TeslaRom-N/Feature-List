@@ -92,5 +92,9 @@
 - launch default music player on headset connect
 - AOSP Recents Grid Style
 - QS footer warnings
+- Allow to disable HOME key when ringing
+- Allow to set custom brightness for ambient display and liftToWwake
+- Always show screen on time
+- No more "miscellaneous" battery drain
 
 ...and more
