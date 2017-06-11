@@ -97,6 +97,6 @@
 - Always show screen on time
 - No more "miscellaneous" battery drain
 - Add GZRoms App to About phone
-- allow to disable round corners for cards
+- Slim Recents: allow to disable round corners for cards
 
 ...and more
