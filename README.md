@@ -96,5 +96,7 @@
 - Allow to set custom brightness for ambient display and liftToWwake
 - Always show screen on time
 - No more "miscellaneous" battery drain
+- Add GZRoms App to About phone
+- allow to disable round corners for cards
 
 ...and more
