@@ -98,5 +98,10 @@
 - No more "miscellaneous" battery drain
 - Add GZRoms App to About phone
 - Slim Recents: allow to disable round corners for cards
+- Update Magisk
+- Update Nova Launcher
+- Support Recents Task locking
+- Smartbar Button long-press delay configurable
+- add Signature Spoofing permission
 
 ...and more
