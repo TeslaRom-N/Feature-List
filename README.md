@@ -103,5 +103,7 @@
 - Support Recents Task locking
 - Smartbar Button long-press delay configurable
 - add Signature Spoofing permission
+- Fling: if KB is showing, double tap right/left to move text cursor
+- Allow user to add/remove QS with one click
 
 ...and more
